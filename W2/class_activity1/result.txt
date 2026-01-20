@@ -1,0 +1,2 @@
+This is the result file.
+This file will be copied using Linux system calls as "copyresult.txt".
