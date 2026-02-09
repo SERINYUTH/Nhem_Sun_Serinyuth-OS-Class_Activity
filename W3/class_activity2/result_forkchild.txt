@@ -1,0 +1,3 @@
+forkchild
+forkchild.c
+result_forkchild.txt

@@ -1,0 +1,15 @@
+  198  cp CopyingFolder/* Documents/
+  199  clear
+  200  tree
+  201  cd ..
+  202  clear
+  203  ls
+  204  mkdir class_activity2
+  205  cd class_activity2/
+  206  nano forkchild.c
+  207  gcc -o forkchild forkchild.c
+  208  ./forkchild > result_forkchild.txt
+  209  cat result_forkchild.txt 
+  210  [200~./forkchild > result_forkchild.txt
+  211  ./forkchild > result_forkchild.txt
+  212  history | tail -n 15 > command_used_forkchild.txt
